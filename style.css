@@ -1,0 +1,47 @@
+/* fonts
+font-family: 'Turret Road', cursive;
+*/
+
+html {
+    background-color: maroon;
+    font-family: 'Raleway', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Merriweather', serif;
+}
+
+div.questions {
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px 20px 100px;
+    margin: 20px 50px 10px 50px;
+}
+
+button {
+    border-radius: 15px;
+    background-color: plum;
+    font-size: 20px;
+}
+
+.correct {
+    background-color: limegreen;
+
+}
+
+.incorrect {
+    background-color: red;
+}
+
+p#overall-score {
+    font-size: 30px;
+}
+
+input {
+    visibility: visible;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
